@@ -14,9 +14,10 @@
 
 **(3) 나만의 키워드로 자료 검색하기**  
 예시) “machine learning”이 포함된 Python 코드 중 stars가 1000개 이상인 저장소 찾기
+
 -> machine learning language:python stars:>1000
 
-<img width="200" height="100" alt="image" src="github_image.png" />
+<img width="250" height="100" alt="image" src="github_image.png" />
 
 ---
 
