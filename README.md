@@ -9,7 +9,7 @@
 **나만의 저장소 만들기**  
 → https://github.com 접속 -> 가입 -> 저장소 만들기
 
-<img width="250" height="100" alt="image" src="github_image.png" />
+<img width="100" height="100" alt="image" src="github_image.png" />
 
 ---
 
@@ -17,7 +17,7 @@
 **나만의 키워드로 논문 검색하기**
 -> https://pmc.ncbi.nlm.nih.gov/ 접속
 
-<img width="400" height="100" alt="image" src="pmc_image.jpg" />
+<img width="300" height="100" alt="image" src="pmc_image.jpg" />
 
 -> 자주 쓰는 TAG는?
 
