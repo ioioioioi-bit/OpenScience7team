@@ -8,6 +8,7 @@
 ## 1. github
 **나만의 저장소 만들기**  
 → https://github.com 접속 -> 가입 -> 저장소 만들기
+
 <img width="372" height="81" alt="image" src="github_image.png" />
 
 ---
@@ -15,6 +16,7 @@
 ## 2. PMC(Pubmed Central)
 **나만의 키워드로 논문 검색하기**
 -> https://pmc.ncbi.nlm.nih.gov/ 접속
+
 <img width="566" height="81" alt="image" src="pmc_image.jpg" />
 
 -> 자주 쓰는 TAG는?
