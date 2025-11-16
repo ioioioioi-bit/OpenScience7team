@@ -9,7 +9,15 @@
 **나만의 저장소 만들기**  
 → https://github.com 접속 -> 가입 -> 저장소 만들기
 
+**협업하기**  
+→ Ropositoryies -> Settings -> Collaborators -> Add people 
+
 <img width="100" height="100" alt="image" src="github_image.png" />
+
+**나만의 키워드로 자료 검색하기**  
+예시) “machine learning”이 포함된 Python 코드 중 stars가 1000개 이상인 저장소 찾기
+-> machine learning language:python stars:>1000
+
 
 ---
 
