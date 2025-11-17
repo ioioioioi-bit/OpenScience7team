@@ -2,7 +2,7 @@
 
 ---
 ## 발표 장표 다운로드
-<a href="오픈사이언스_7조_test.pdf" download>발표자료</a>
+<a href="Openscience_7team_2025117.ppt" download>발표자료</a>
 
 ---
 ## 1. github
