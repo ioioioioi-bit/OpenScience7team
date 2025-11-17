@@ -35,4 +35,4 @@
 
 ---
 
-<a href="md작성방법.md">md 작성 방법으로 가기</a>
+<a href="md user guide.md">md 작성 방법으로 가기</a>
