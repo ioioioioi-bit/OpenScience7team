@@ -1,4 +1,4 @@
-# Open Science DB조사 및 실습 (7조)
+# Open Science DB조사 및 실습 (7조 화이팅)
 
 ---
 ## 발표 장표 다운로드
