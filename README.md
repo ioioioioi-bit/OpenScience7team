@@ -9,7 +9,7 @@
 **(1) 나만의 저장소 만들기**  
 → https://github.com 접속 -> log in -> New ropository
 
-<a href="md user guide.md">md 작성 방법으로 가기</a>
+<a href="md user guide.md">README.md 작성 방법으로 가기</a>
 
 **(2) 협업하기**  
 → Ropositoryies -> Settings -> Collaborators -> Add people 
