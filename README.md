@@ -9,6 +9,8 @@
 **(1) 나만의 저장소 만들기**  
 → https://github.com 접속 -> log in -> New ropository
 
+<a href="md user guide.md">md 작성 방법으로 가기</a>
+
 **(2) 협업하기**  
 → Ropositoryies -> Settings -> Collaborators -> Add people 
 
@@ -33,6 +35,3 @@
 (2) **나만의 키워드는 MeSH로 어떤 표현일까?**
 -> https://www.ncbi.nlm.nih.gov/mesh/ 접속
 
----
-
-<a href="md user guide.md">md 작성 방법으로 가기</a>
