@@ -4,6 +4,7 @@
 ## 발표 장표 다운로드
 <a href="Openscience_7team_2025117.pptx" download>발표자료 1차</a>
 
+<a href="Openscience_7team_2025117.pdf" download>미리보기</a>
 ---
 ## 1. github
 **(1) 나만의 저장소 만들기**  
