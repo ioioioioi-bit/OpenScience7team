@@ -1,10 +1,10 @@
 # Open Science DB조사 및 실습 (7조 화이팅)
 
 ---
-## 발표 장표 다운로드
-<a href="Openscience_7team_2025117.pptx" download>발표자료 1차</a>
+## 발표 PPT 장표 다운로드
+<a href="Openscience_7team_2025119.pptx" download>발표자료</a>
 
-<a href="Openscience_7team_2025117.pdf" download>미리보기</a>
+<a href="Openscience_7team_2025119.pdf" download>미리보기</a>
 ---
 ## 1. github
 **(1) 나만의 저장소 만들기**  
