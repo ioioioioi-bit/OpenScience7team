@@ -1,9 +1,8 @@
 # Open Science DB조사 및 실습 (7조)
 
 ---
-## 발표 PPT 장표 다운로드
-<a href="Openscience_7team_2025119.pptx" download>PPT로 보기</a>
----
+## 발표 장표 다운로드
+
 <a href="Openscience_7team_2025119.pdf" download>PDF로 보기</a>
 ---
 ## 1. github
